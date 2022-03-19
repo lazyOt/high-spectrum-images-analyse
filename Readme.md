@@ -2,7 +2,6 @@
 
 ##### 一、数据库设计
 
-![image-20211111192649729](C:\Users\张锦涛\AppData\Roaming\Typora\typora-user-images\image-20211111192649729.png)
 
 ​	使用Java中JDBC模块进行数据库读取与连接（将数据存入类中进行处理）。
 
