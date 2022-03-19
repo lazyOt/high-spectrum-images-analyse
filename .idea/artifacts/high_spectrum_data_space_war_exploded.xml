@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="high_spectrum_data_space:war_exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/high_spectrum_data_space_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="high-spectrum-data-space/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="high-spectrum-data-space" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
